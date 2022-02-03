@@ -33,7 +33,7 @@ jobs:
         # Target URL of PHP container
         target: http://172.17.0.2
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: ubuntu
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
